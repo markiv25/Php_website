@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&family=Varela+Round&display=swap');
+
+body{
+  background-image: url(https://flevix.com/wp-content/uploads/2019/12/Live-Wave-Background.svg) !important;
+   }
+  .content{
+    width: 450px;
+    height: auto;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  .nav-pills{
+    width: 450px;
+  }
+  .nav-item{
+    width: 50%;
+    
+  }
+  body{
+  background: #16a085;
+ }
+.content{
+  width: 450px;
+  height: auto;
+  margin: 0 auto;
+  padding: 30px;
+}
+.nav-pills{
+  width: 450px;
+}
+.nav-item{
+  width: 50%;
+}
+.nav-pills .nav-link{
+  font-weight: bold;
+  padding-top: 13px;
+  text-align: center;
+  background: #343436;
+  color: #fff;
+  border-radius: 30px;
+  height: 100px;
+}
+.nav-pills .nav-link.active{
+  background: #fff;
+  color: #000;
+}
+.tab-content{
+  position: absolute;
+  width: 450px;
+  height: auto;
+  margin-top: -50px;
+  background: #fff;
+  color: #000;
+  border-radius: 30px;
+  z-index: 1000;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.4);
+  padding: 30px;
+  margin-bottom: 50px;
+}
+.tab-content button{
+  border-radius: 15px;
+  width: 100px;
+  margin: 0 auto;
+  float: right;
+}
+  #delete{
+  left: 80%;
+  }
+  
+  #update{
+   left: 68%;
+    }
+    .bcontent {
+      margin-top: 10px;
+  }
+.title_li{
+  width: 100%;
+  background-color:cornflowerblue ;
+  border-radius: 30px;
+  text-align: center;
+  font-size: large;
+  }
+.reg_list{
+  background-image: url(https://colorlib.com/etc/lf/Login_v4/images/bg-01.jpg);
+  color: white;
+  width: 1000px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  border: none;
+  transition: all 0.4s;
+  cursor: grab;
+  border-radius: 15px;
+  position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+  
+
+}
+.reg_list:hover{
+  background-position: right center;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+      margin: 8px 10px 12px;
+     
+      cursor: pointer;
+}
+.nm{
+  font-size: 34px;
+  color: white;
+  padding-left: 10px;
+  background-color: cornflowerblue;
+  border-radius: 30px;
+}
+.nm_cont{
+font-size: 10px;
+padding-left: auto !important;
+padding-right: auto !important;
+
+}
+  .nav-pills .nav-link{
+    font-weight: bold;
+    padding-top: 13px;
+    text-align: center;
+    background: #343436;
+    color: #fff;
+    border-color: #343436;
+    height: 100px;
+    border-style: solid;
+  border-color: #6adf9f  !important;
+  border-radius:40px !important;
+
+  }
+  .nav-pills .nav-link.active{
+    background: #afebcd;
+    color: #000 !important;
+    background-color: #afebcd !important;
+   
+  }
+  .bttn {
+    background-image: url(https://colorlib.com/etc/lf/Login_v4/images/bg-01.jpg);
+    color: white;
+    padding: 14px 0;
+    position: absolute;
+    margin: 10px 0;
+    border: none;
+    transition: all 0.4s;
+    cursor: grab;
+    width: 100px;
+    left: 10px;
+    }
+    .bttn:hover{
+      background-position: right center;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+      margin: 8px 10px 12px;
+     
+      cursor: pointer;
+    }
+   
+  .tab-content{
+    position: absolute;
+    width: auto;
+    border-radius:40px;
+    left: 15%;
+    height: auto;
+    margin-top: -100px;
+    background: #5ecae6;
+    color: #000;
+    border-radius: 30px;
+    z-index: 1000;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.4);
+    padding: 30px;
+    margin-bottom: 50px;
+  }
+  .tab-content .active{
+    width: 1000px !important;
+
+  }
+  .tab-content button{
+    border-radius: 15px;
+    width: 100px;
+    margin: 0 auto;
+    float: right;
+  }
